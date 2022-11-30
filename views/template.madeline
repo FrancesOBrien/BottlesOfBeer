@@ -1,0 +1,7 @@
+<head>
+#title#
+</head>
+<body>
+<header>#message#</header>
+<a>href="#bottles_of_beer#</a>
+</body>
